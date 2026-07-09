@@ -8,8 +8,12 @@ A Beckhoff AM8012 servo motor driven by an AX5206 servo drive was programmed usi
 The system performance was evalueated using position and velocity measurements generated suring execution.
 
 ## Project Information
-|Author| Edidiong Enobong Umoh|
-|Institution| University of Debrecen|
-|Project Type| Academic Motion Control Project|
-|Platform| Beckhoff TwinCAT 3|
-|Programming language| Structured Text (IEC 61131-3)|
+Author: Edidiong Enobong Umoh
+
+Institution: University of Debrecen
+
+Project Type: Academic Motion Control Project
+
+Platform: Beckhoff TwinCAT 3
+
+Programming language: Structured Text (IEC 61131-3)
