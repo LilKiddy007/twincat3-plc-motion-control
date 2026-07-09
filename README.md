@@ -1,6 +1,6 @@
 # PLC-Based Servo Motor Motion Control using TwinCAT 3
 
-![TwinCAT Automation System](images/hero.png)
+![TwinCAT Automation System](images/task-flow.png)
 
 ## Overview
 This project involved the design and implementation of a PLC-based motion control sequence using Beckhoff TwinCAT 3 and the TC2_MC2 motion control library.
